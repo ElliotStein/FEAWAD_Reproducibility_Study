@@ -6,6 +6,19 @@ __pycache__/
 # C extensions
 *.so
 
+# Extra
+.png
+.DS_Store
+.ckpt
+.csv
+.pt
+.pyc
+2022*/
+.numbers
+.h5
+test.ipynb
+/Final\ Results/
+
 # Distribution / packaging
 .Python
 build/
