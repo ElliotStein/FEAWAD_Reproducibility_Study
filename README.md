@@ -2,7 +2,7 @@
 Reproducing the results published in Feature Extracting Autoencoders for Weakly Supervised Anomaly Detection (FEAWAD)
 
 # Motivation 
-I am interested in applying techniques from the field of Continual Learning to enable a more versatile and adaptive anomaly detection system.
+I am interested in applying techniques from the field of Continual Learning to enable a more versatile dynamic anomaly detection system.
 First I am working on reproducing results published in FEAWAD [1], with a view to extending this to a continual learning setting.
 
 # This Repo
